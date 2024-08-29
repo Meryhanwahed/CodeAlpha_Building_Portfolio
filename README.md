@@ -21,13 +21,14 @@ Front-end development focuses on creating the visual and interactive elements of
 
 ## Task Overview
 
-A Calculater Project with basic arithmetic operations functionalities like addition, subtraction, multiplication, and division will be highly useful to a novice who has the essential knowledge of HTML, CSS, and JavaScript. You’ll need to design a user interface with buttons for entering data and a display screen for displaying the results
+Building a personal portfolio website is one of the most simple yet tough front-end project ideas. You might begin by using your website as a resume. This means you can add information to the website about your experience, talents, and expertise
 
 ## The Project
 
-  #### [java code](java_code/code)      --     [CSS Code](css_code/code)     --      [HTML Code](html_code/code)
+  #### [HTML Codes](HTML-Codes)      --     [CSS Codes](CSS_Codes) 
 
-  ![WhatsApp Image 2024-08-29 at 23 20 37_11f93512](https://github.com/user-attachments/assets/ac4045ad-7573-4ee3-b163-837d22c76257)
+ ![WhatsApp Image 2024-08-29 at 23 33 30_025942a4](https://github.com/user-attachments/assets/35d94f67-c546-4a90-9a86-c0798a018051)
+
 
 
 MIT License
